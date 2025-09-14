@@ -4,13 +4,7 @@ We follow a consistent style for commit messages to make history readable and us
 
 ---
 
-## Format
-
-<type>: <short description>
-
-[optional body]
-
-[optional footer]
+## Format:
 
 
 ### 1. Types
