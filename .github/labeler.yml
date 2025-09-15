@@ -1,0 +1,10 @@
+# Label rules based on file changes
+
+bug:
+  - any: ['src/**', 'tests/**']   # if PR touches code, maybe it's bug/feature
+feature:
+  - any: ['src/**']
+documentation:
+  - any: ['docs/**', '**/*.md']
+priority:high:
+  - any: ['src/security/**']
