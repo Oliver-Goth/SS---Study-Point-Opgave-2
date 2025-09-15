@@ -1,0 +1,13 @@
+# CODEOWNERS file
+
+# Default: all files in the repo
+*       @Oliver-Goth
+
+# Example: docs folder owned by one person
+/docs/  @Oliver-Goth @Dzer1997
+
+# Example: Python code owned by backend team
+/src/   @Oliver-Goth @Dzer1997
+
+# Example: tests folder owned by QA
+/tests/ @Oliver-Goth
