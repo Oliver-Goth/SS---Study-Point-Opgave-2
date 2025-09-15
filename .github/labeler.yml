@@ -1,10 +1,17 @@
 # Label rules based on file changes
 
 bug:
-  - any: ['src/**', 'tests/**']   # if PR touches code, maybe it's bug/feature
+  - changed-files:
+      - any-glob-to-any-file: ['src/**', 'tests/**']
+
 feature:
-  - any: ['src/**']
+  - changed-files:
+      - any-glob-to-any-file: ['src/**']
+
 documentation:
-  - any: ['docs/**', '**/*.md']
+  - changed-files:
+      - any-glob-to-any-file: ['docs/**', '**/*.md']
+
 priority:high:
-  - any: ['src/security/**']
+  - changed-files:
+      - any-glob-to-any-file: ['src/security/**']
