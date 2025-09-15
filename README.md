@@ -87,3 +87,8 @@ The app will run at http://localhost:3000.
 - Document any changes you make to help others use your version as a starting point as well.
    ```pgsql
    If you want, I can also **write a shorter, more concise version** that fits neatly into an existing README without being too long. Do you want me to do that?
+
+### Metrics & Reflection
+| Week | PRs Merged | Avg Time Issue → PR Merge |
+|------|------------|--------------------------|
+| 2025-09-12 → 2025-09-15 | 11 | 5.3 min |
