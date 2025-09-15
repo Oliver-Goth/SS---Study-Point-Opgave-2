@@ -1,0 +1,28 @@
+{
+  "name": "Python Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12", 
+
+  // Features to install automatically
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+
+  // Workspace settings for VS Code
+  "settings": {
+    "python.defaultInterpreterPath": "/usr/local/bin/python",
+    "editor.formatOnSave": true
+  },
+
+  // Extensions installed automatically
+  "extensions": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-azuretools.vscode-docker"
+  ],
+
+  // Run commands after container is created
+  "postCreateCommand": "pip install -r requirements.txt",
+
+  // Forward ports if needed (example for web app on 8000)
+  "forwardPorts": [8000]
+}
