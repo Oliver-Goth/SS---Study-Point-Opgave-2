@@ -1,7 +1,7 @@
 # Project Name
 
 Welcome to the **Project Name** repository!  
-This repo contains a [brief description of your project, e.g., a booking system built with React, TypeScript, and Fluent UI].  
+This repo contains a [brief description of project].  
 It is designed to be reusable as a foundation for similar applications.
 
 ---
