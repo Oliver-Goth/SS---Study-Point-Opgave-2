@@ -80,6 +80,3 @@ If you are using VS Code Dev Containers:
 - This file serves as the entry point for any new contributor.
 - Following these guidelines helps reduce friction, ensures code quality, and makes collaboration smoother.
 - If you have questions, open an Issue or reach out to the maintainers.
-  ```yaml
-  If you want, I can also **add a ready-made Pull Request template** that complements this CONTRIBUTING.md so new contributors have a form to fill when submitting PRs. This would make it even smoother for collaboration. Do you want me to do that?
-  ```
