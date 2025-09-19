@@ -7,12 +7,12 @@ It is designed to be reusable as a foundation for similar applications.
 ---
 
 ## Table of Contents
-1. [About the Project](#about-the-project)  
-2. [Branching Strategy Decision](#branching-strategy-decision)  
-3. [Getting Started](#getting-started)  
-4. [Automation & Workflows](#automation--workflows)  
-5. [Metrics](#metrics)  
-6. [License](#license)  
+1. [About the Project](#1-about-the-project)  
+2. [Branching Strategy Decision](#2-branching-strategy-decision)  
+3. [Getting Started](#3-getting-started)  
+4. [Automation & Workflows](#4-automation--workflows)  
+5. [Metrics](#5-metrics)  
+6. [License](#6-license)  
 
 ---
 
