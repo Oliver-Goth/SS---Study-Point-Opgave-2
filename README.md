@@ -1,6 +1,6 @@
 # Project Name
 
-Welcome to the **Project Name** repository!  
+Hello and welcome to the **Project Name** repository!  
 This repo contains a [brief description of project].  
 It is designed to be reusable as a foundation for similar applications.
 
